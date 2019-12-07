@@ -17,12 +17,9 @@ def intcode_processor(index=0):
 
 	intcode_processor(index+4)
 
-		
-
-
-
 intcode_processor()
 print(opcode)
+
 
 def opcode_looper():
 	global base_opcode
